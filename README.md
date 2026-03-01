@@ -1,4 +1,4 @@
-# Alignment# Alignment Root of Trust (ARoT): Appendix X — AI Safety Framework
+# Alignment Root of Trust (ARoT): Appendix X — AI Safety Framework
 
 A systems-level architecture for enforcing alignment through infrastructure, not model behavior.
 ## Conceptual Architecture
