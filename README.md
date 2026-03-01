@@ -2,7 +2,7 @@
 
 A supervisory control architecture for AI systems combining software-based detection and hardware-enforced boundaries.
 
----
+
 
 ## Overview
 
